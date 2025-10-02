@@ -1,0 +1,127 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\carus\\source\\repos\\Snake\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0040F3FA-7FAE-459B-ACB6-2A9630FAD83E}|Snake\\Snake.csproj|c:\\users\\carus\\source\\repos\\snake\\snake\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0040F3FA-7FAE-459B-ACB6-2A9630FAD83E}|Snake\\Snake.csproj|solutionrelative:snake\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0040F3FA-7FAE-459B-ACB6-2A9630FAD83E}|Snake\\Snake.csproj|c:\\users\\carus\\source\\repos\\snake\\snake\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0040F3FA-7FAE-459B-ACB6-2A9630FAD83E}|Snake\\Snake.csproj|solutionrelative:snake\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0040F3FA-7FAE-459B-ACB6-2A9630FAD83E}|Snake\\Snake.csproj|c:\\users\\carus\\source\\repos\\snake\\snake\\circulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0040F3FA-7FAE-459B-ACB6-2A9630FAD83E}|Snake\\Snake.csproj|solutionrelative:snake\\circulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0040F3FA-7FAE-459B-ACB6-2A9630FAD83E}|Snake\\Snake.csproj|c:\\users\\carus\\source\\repos\\snake\\snake\\snake.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{0040F3FA-7FAE-459B-ACB6-2A9630FAD83E}|Snake\\Snake.csproj|solutionrelative:snake\\snake.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0040F3FA-7FAE-459B-ACB6-2A9630FAD83E}|Snake\\Snake.csproj|C:\\Users\\carus\\source\\repos\\Snake\\snake\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0040F3FA-7FAE-459B-ACB6-2A9630FAD83E}|Snake\\Snake.csproj|solutionrelative:snake\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0040F3FA-7FAE-459B-ACB6-2A9630FAD83E}|Snake\\Snake.csproj|c:\\users\\carus\\source\\repos\\snake\\snake\\settings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0040F3FA-7FAE-459B-ACB6-2A9630FAD83E}|Snake\\Snake.csproj|solutionrelative:snake\\settings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\carus\\source\\repos\\Snake\\Snake\\Form1.cs",
+              "RelativeDocumentMoniker": "Snake\\Form1.cs",
+              "ToolTip": "C:\\Users\\carus\\source\\repos\\Snake\\Snake\\Form1.cs",
+              "RelativeToolTip": "Snake\\Form1.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwBMAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-25T13:31:45.879Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Settings.cs",
+              "DocumentMoniker": "C:\\Users\\carus\\source\\repos\\Snake\\Snake\\Settings.cs",
+              "RelativeDocumentMoniker": "Snake\\Settings.cs",
+              "ToolTip": "C:\\Users\\carus\\source\\repos\\Snake\\Snake\\Settings.cs",
+              "RelativeToolTip": "Snake\\Settings.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAwwCMAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-25T14:40:23.66Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\carus\\source\\repos\\Snake\\Snake\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "Snake\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\carus\\source\\repos\\Snake\\Snake\\Form1.Designer.cs",
+              "RelativeToolTip": "Snake\\Form1.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAIIAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-01T08:17:23.588Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Circulo.cs",
+              "DocumentMoniker": "C:\\Users\\carus\\source\\repos\\Snake\\Snake\\Circulo.cs",
+              "RelativeDocumentMoniker": "Snake\\Circulo.cs",
+              "ToolTip": "C:\\Users\\carus\\source\\repos\\Snake\\Snake\\Circulo.cs",
+              "RelativeToolTip": "Snake\\Circulo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-26T17:01:21.257Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Snake.csproj",
+              "DocumentMoniker": "C:\\Users\\carus\\source\\repos\\Snake\\Snake\\Snake.csproj",
+              "RelativeDocumentMoniker": "Snake\\Snake.csproj",
+              "ToolTip": "C:\\Users\\carus\\source\\repos\\Snake\\Snake\\Snake.csproj",
+              "RelativeToolTip": "Snake\\Snake.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-09-26T17:00:50.099Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\carus\\source\\repos\\Snake\\Snake\\Form1.cs",
+              "RelativeDocumentMoniker": "Snake\\Form1.cs",
+              "ToolTip": "C:\\Users\\carus\\source\\repos\\Snake\\Snake\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Snake\\Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-25T13:30:40.487Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
