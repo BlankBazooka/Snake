@@ -17,7 +17,7 @@ namespace Snake
             new Settings();
 
             //Inicialitzem el timer
-            gameTimer.Interval = 1200 / Settings.Speed;
+            gameTimer.Interval = 1600 / Settings.Speed;
             gameTimer.Tick += UpdateScreen;
             gameTimer.Start();
 
@@ -27,7 +27,9 @@ namespace Snake
         }
         private void StartGame()
         {
+            // Aqui Desactivo la checkbox para que no se pueda cambiar la dificultad en mitad del juego
             hardMode.Enabled = false;
+
             Settings.GameOver = false;
             gameOver.Visible = false;
             restart.Visible = false;
@@ -101,8 +103,13 @@ namespace Snake
                 {
                     for (int i = 0; i < Bombas.Count(); i++)
                     {
-                        Bombas[i].X = r.Next(0, maxXPos);
-                        Bombas[i].Y = r.Next(0, maxYPos);
+                        if (posX == Snake[0].X && posY == Snake[0].Y || posX == food.X && posY == food.Y)
+                        {
+                            posX = r.Next(0, maxXPos);
+                            posY = r.Next(0, maxYPos);
+                        }
+                        Bombas[i].X = posX;
+                        Bombas[i].Y = posY;
                     }
                 }
             }
@@ -292,6 +299,11 @@ namespace Snake
                 maxBombs = 10;
             }
             hardMode.Enabled = false;
+        }
+
+        private void restart_Click(object sender, EventArgs e)
+        {
+
         }
     }
 }

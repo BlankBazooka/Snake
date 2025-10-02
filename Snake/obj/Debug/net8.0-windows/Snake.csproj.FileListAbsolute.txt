@@ -14,3 +14,4 @@ C:\Users\carus\source\repos\Snake\Snake\obj\Debug\net8.0-windows\refint\Snake.dl
 C:\Users\carus\source\repos\Snake\Snake\obj\Debug\net8.0-windows\Snake.pdb
 C:\Users\carus\source\repos\Snake\Snake\obj\Debug\net8.0-windows\Snake.genruntimeconfig.cache
 C:\Users\carus\source\repos\Snake\Snake\obj\Debug\net8.0-windows\ref\Snake.dll
+C:\Users\carus\source\repos\Snake\Snake\obj\Debug\net8.0-windows\Snake.sourcelink.json
